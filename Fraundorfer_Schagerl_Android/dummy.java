@@ -7,6 +7,9 @@ public class dummy {
         System.out.print("this is new");
         int x = 4;
         int y = 24
-        System.out.print("Ergebnis einer komplizierten Rechnung: " y/x);
+        System.out.println("Ergebnis einer komplizierten Rechnung: " + y/x);
+        System.out.println("NOCH komplizierter: " + y-x);
+        y += 2*x;
+        System.out.println("Finales Ergebnis nach VIELEN Rechnungen: " + y);
     }
 }
