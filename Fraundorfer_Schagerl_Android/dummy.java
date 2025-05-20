@@ -5,6 +5,6 @@ public class dummy {
 
     public void thisIsANewMethod() { 
         System.out.print("this is new");
-        int x = 2;
+        int x = 4;
     }
 }
