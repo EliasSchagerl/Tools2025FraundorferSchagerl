@@ -5,7 +5,7 @@ public class dummy {
 
     public void thisIsANewMethod() { 
         System.out.print("this is new");
-        int x = 2;
+        int x = 4;
         int y = 24
         System.out.print("Ergebnis einer komplizierten Rechnung: " y/x);
     }
