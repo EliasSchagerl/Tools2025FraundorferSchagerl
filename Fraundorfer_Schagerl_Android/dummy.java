@@ -7,4 +7,8 @@ public class dummy {
         System.out.print("this is new");
         int x = 4;
     }
+
+    public int add(int x, int y) {
+        return x + y;
+    }
 }
