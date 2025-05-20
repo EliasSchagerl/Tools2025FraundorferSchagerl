@@ -12,4 +12,8 @@ public class dummy {
         y += 2*x;
         System.out.println("Finales Ergebnis nach VIELEN Rechnungen: " + y);
     }
+
+    public int add(int x, int y) {
+        return x + y;
+    }
 }
