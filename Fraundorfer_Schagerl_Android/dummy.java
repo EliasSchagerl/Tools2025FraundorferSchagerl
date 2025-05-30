@@ -19,5 +19,6 @@ public class dummy {
 
     public static void main(String[] args) {
         System.out.println("7 + 3 = " + add(7+3)); // = 10? I think...
+        System.out.println("Hallo Jake und Elias")
     }
 }
